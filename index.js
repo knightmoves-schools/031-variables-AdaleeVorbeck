@@ -1,3 +1,3 @@
-let coarseLength = 20;
+let courseLength = 20;
 
-document.getElementById('result').innerHTML = coarseLength;
+document.getElementById('result').innerHTML = courseLength;
